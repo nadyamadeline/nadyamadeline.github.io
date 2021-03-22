@@ -40,10 +40,10 @@ function about() {
           </p>
 
           <p>
-            Currently, I'm improving my knowledge on Data Structure &amp;
-            Algorithms by taking various courses on the subject and practice my
-            problem-solving skills on LeetCode, HackerRank, CodeWars, and many
-            more.
+            Currently, I'm improving my knowledge on{" "}
+            <span>Data Structure &amp; Algorithms</span> by taking various
+            courses on the subject and practice my problem-solving skills on
+            LeetCode, HackerRank, CodeWars, and many more.
           </p>
 
           <p>

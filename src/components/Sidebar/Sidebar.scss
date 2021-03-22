@@ -1,3 +1,8 @@
+$color1: #4c5a43;
+$color2: #7b8d75;
+$color3: #837563;
+$color4: #e1d9d6;
+$color5: #c0ae98;
 .sidebar {
   display: flex;
   flex-direction: column;
@@ -19,17 +24,17 @@
   .sidebar-line {
     width: 1px;
     height: 6.25rem;
-    border-left: 1px solid black;
+    border-left: 1px solid $color1;
   }
 
   .sidebar-btn {
-    color: black;
+    color: $color1;
     padding: 0.625rem;
-    width: 1.25rem;
-    height: 1.25rem;
+    width: 1.45rem;
+    height: 1.45rem;
 
     :hover {
-      color: red;
+      color: $color3;
       transition-timing-function: ease-in;
       transition-duration: 150ms;
     }

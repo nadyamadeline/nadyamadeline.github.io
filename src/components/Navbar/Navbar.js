@@ -11,31 +11,37 @@ function Navbar() {
   return (
     <div className={scroll ? "navbar-scroll" : "navbar"}>
       <div className="navbar-logo">
-        <a href="/" style={{ textDecoration: "none", color: "black" }}>
+        <a href="/" style={{ textDecoration: "none", color: "#837563" }}>
           Nadya Afandi
         </a>
       </div>
 
       <div className="navbar-menu">
-        <a href="/#about" style={{ textDecoration: "none", color: "black" }}>
+        <a href="/#about" style={{ textDecoration: "none", color: "#7b8d75" }}>
           About
         </a>
         <a
           href="/#experience"
-          style={{ textDecoration: "none", color: "black" }}
+          style={{ textDecoration: "none", color: "#7b8d75" }}
         >
           Experience
         </a>
-        <a href="/#project" style={{ textDecoration: "none", color: "black" }}>
+        <a
+          href="/#project"
+          style={{ textDecoration: "none", color: "#7b8d75" }}
+        >
           Works
         </a>
-        <a href="/#contact" style={{ textDecoration: "none", color: "black" }}>
+        <a
+          href="/#contact"
+          style={{ textDecoration: "none", color: "#7b8d75" }}
+        >
           Contact
         </a>
         <a
           className="resume-btn"
           href="/#resume"
-          style={{ textDecoration: "none", color: "black" }}
+          style={{ textDecoration: "none", color: "#7b8d75" }}
         >
           Resume
         </a>

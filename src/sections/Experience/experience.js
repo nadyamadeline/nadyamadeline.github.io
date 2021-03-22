@@ -57,7 +57,8 @@ function Experience() {
                 Software Engineering Trainee &#64;{" "}
                 <a href="https://glints.com">Glints</a>
               </h3>
-              <p>Dec 2020 - Mar 2021</p>
+              <p className="duration">Dec 2020 - Mar 2021</p>
+              <br />
               <ul>
                 <li>
                   Glints is a Series B Talent Recruitment Start-Up backed by top
@@ -81,7 +82,8 @@ function Experience() {
                 Founder &#64;{" "}
                 <a href="https://instagram.com/butterworks.id">Butterworks</a>
               </h3>
-              <p>Apr 2020 - present</p>
+              <p className="duration">Apr 2020 - present</p>
+              <br />
               <ul>
                 <li>
                   Butterworks is an online-based bakery focusing on creating
@@ -99,7 +101,8 @@ function Experience() {
               <h3>
                 Project Manager Assistant &#64; <a href="/">RAJAWALI</a>
               </h3>
-              <p>Jan 2020 - Mar 2020</p>
+              <p className="duration">Jan 2020 - Mar 2020</p>
+              <br />
               <ul>
                 <li>
                   Rajawali is a metal-cutting machine manufacturer, providing

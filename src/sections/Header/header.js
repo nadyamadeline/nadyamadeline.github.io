@@ -4,7 +4,9 @@ import "./header.scss";
 function header() {
   return (
     <div className="header">
-      <p className="hi">Hi! Welcome aboard. My name is</p>
+      <p className="hi" style={{ fontFamily: "Open Sans" }}>
+        Hi! Welcome aboard. My name is
+      </p>
       <h1>Nadya Afandi.</h1>
       <h2>I can make your dreams come true.</h2>
       <p style={{ maxWidth: "450px" }}>
