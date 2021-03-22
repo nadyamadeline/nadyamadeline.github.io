@@ -13,6 +13,7 @@ $color5: #c0ae98;
   margin: 0 6.25rem;
   padding: 6.25rem 0;
   position: relative;
+  z-index: 3;
 }
 
 .section-title {
@@ -74,7 +75,7 @@ $color5: #c0ae98;
   position: absolute;
   top: 12rem;
   left: 670px;
-  border: 3px solid black;
+  border: 3px solid $color5;
   border-radius: 0.25rem;
   z-index: -1;
 }
