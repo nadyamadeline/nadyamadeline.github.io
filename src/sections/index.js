@@ -4,6 +4,8 @@ import Header from "./Header/header";
 import About from "./About/about";
 import Experience from "./Experience/experience";
 import Project from "./Project/project";
+import Contact from "./Contact/contact";
+import Footer from "../components/Footer/Footer";
 
 function index() {
   return (
@@ -11,7 +13,9 @@ function index() {
       <Header />
       <About />
       <Experience />
-      <Project />
+      {/* <Project /> */}
+      <Contact />
+      <Footer />
     </div>
   );
 }
