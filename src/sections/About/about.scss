@@ -1,0 +1,62 @@
+.section-title {
+  display: flex;
+  align-items: center;
+}
+.about {
+  display: flex;
+  flex-direction: column;
+  margin: 0 6.25rem;
+  padding: 6.25rem 0;
+  position: relative;
+  z-index: -2;
+}
+
+.section-title {
+  padding-bottom: 2rem;
+  h2 {
+    font-size: 1.75rem;
+  }
+}
+.tech-list {
+  display: flex;
+}
+
+.title-line {
+  width: 350px;
+  height: 1px;
+  border-top: 1px solid black;
+  margin-left: 1rem;
+}
+
+.about-container {
+  display: flex;
+  justify-content: space-between;
+}
+
+.about-data {
+  font-family: "Raleway";
+  line-height: 1.65rem;
+  margin-right: 5.25rem;
+  p {
+    font-size: 0.95rem;
+    padding-bottom: 1rem;
+  }
+}
+
+.my-img {
+  img {
+    width: 300px;
+    height: 300px;
+    border-radius: 0.25rem;
+  }
+}
+.img-border {
+  width: 300px;
+  height: 300px;
+  position: absolute;
+  top: 12rem;
+  left: 670px;
+  z-index: -2;
+  border: 3px solid black;
+  border-radius: 0.25rem;
+}

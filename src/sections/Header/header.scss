@@ -1,0 +1,38 @@
+.header {
+  display: flex;
+  min-height: 100vh;
+  justify-content: center;
+  flex-direction: column;
+  padding: 0 6.25rem;
+  max-width: 1000px;
+
+  p {
+    font-family: "Raleway";
+    line-height: 2rem;
+    font-size: 1.1rem;
+  }
+
+  h1 {
+    font-size: 5rem;
+  }
+  h2 {
+    font-size: 2.5rem;
+    line-height: 3.75rem;
+    padding-bottom: 1rem;
+  }
+
+  a {
+    :hover {
+      transform: scale(1.03);
+      cursor: pointer;
+    }
+  }
+  .contact-btn {
+    margin-top: 2rem;
+    padding: 1.25rem;
+    width: 150px;
+    font-size: 1.1rem;
+    border: 1px solid black;
+    background-color: inherit;
+  }
+}
