@@ -40,7 +40,7 @@ function Navbar() {
         </a>
         <a
           className="resume-btn"
-          href="/#resume"
+          href="/resume.pdf"
           style={{ textDecoration: "none", color: "#7b8d75" }}
         >
           Resume

@@ -55,7 +55,9 @@ function Experience() {
             <div>
               <h3>
                 Software Engineering Trainee &#64;{" "}
-                <a href="https://glints.com">Glints</a>
+                <a href="https://glints.com" target="_blank">
+                  Glints
+                </a>
               </h3>
               <p className="duration">Dec 2020 - Mar 2021</p>
               <br />
@@ -80,7 +82,9 @@ function Experience() {
             <div>
               <h3>
                 Founder &#64;{" "}
-                <a href="https://instagram.com/butterworks.id">Butterworks</a>
+                <a href="https://instagram.com/butterworks.id" target="_blank">
+                  Butterworks.id
+                </a>
               </h3>
               <p className="duration">Apr 2020 - present</p>
               <br />
@@ -99,7 +103,10 @@ function Experience() {
           ) : work3 ? (
             <div>
               <h3>
-                Project Manager Assistant &#64; <a href="/">RAJAWALI</a>
+                Project Manager Assistant &#64;{" "}
+                <a href="/" target="_blank">
+                  RAJAWALI
+                </a>
               </h3>
               <p className="duration">Jan 2020 - Mar 2020</p>
               <br />

@@ -19,24 +19,25 @@ function about() {
           <p>
             I enjoy creating useful &amp; interesting platforms, be it websites,
             applications, or anything in between. My vision is to keep on
-            delivering an impact using the things I build, solving people's
-            common issues along the way.
+            delivering an impact using the things I build, helping solve
+            people's common issues along the way.
           </p>
 
           <p>
             I graduated from{" "}
-            <a href="https://www.monash.edu/">Monash University</a> in
-            Melbourne, Australia after completing my Bachelor of Actuarial
-            Science in 2.5 years. I developed an interest in programming after
-            spending most of my time doing data analysis (using tools like R,
-            Python, and SQL), as my course is largely data-dependant.
-          </p>
-
-          <p>
-            After graduating, I started learning further about web/app
-            development. I enrol myself in a coding bootcamp organised by{" "}
-            <a href="https://www.glints.com">Glints</a>, where I nurtured &amp;
-            improved my programming skills by building various projects.
+            <a href="https://www.monash.edu/" target="_blank">
+              Monash University
+            </a>{" "}
+            in Melbourne, Australia after completing my Bachelor of Actuarial
+            Science in 2.5 years. I developed an interest in programming during
+            my university days, and after graduating, I started learning further
+            about web/app development. I later joined a coding bootcamp
+            organised by{" "}
+            <a href="https://www.glints.com" target="_blank">
+              Glints
+            </a>
+            , where I nurtured &amp; improved my programming skills by building
+            various projects.
           </p>
 
           <p>
@@ -63,7 +64,7 @@ function about() {
           </div>
         </div>
         <div className="my-img">
-          <img src={myImg} alt="" />
+          <img src={myImg} alt="Nadya" />
           <div className="img-border"></div>
         </div>
       </div>

@@ -9,9 +9,8 @@ function contact() {
       <br />
       <p>
         Currently, I am seeking internship opportunities in Singapore, looking
-        forward to new challenges. Whether you have any questions,
-        oppoertunites, or just wanting to say hi, feel free to contact me via
-        email below!
+        forward to new challenges. Whether you have any questions, opportunites,
+        or just wanting to say hi, feel free to contact me via email below!
       </p>
       <a href="mailto:nadyamadeline@gmail.com">
         <button>Say Hello!</button>

@@ -13,7 +13,7 @@ function index() {
       <Header />
       <About />
       <Experience />
-      {/* <Project /> */}
+      <Project />
       <Contact />
       <Footer />
     </div>

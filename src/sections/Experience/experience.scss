@@ -30,7 +30,7 @@ $color5: #c0ae98;
       color: $color1;
     }
     :hover {
-      background-color: #e7e1de;
+      background-color: #f5eded;
       transition-timing-function: ease-in;
       transition-duration: 250ms;
     }
@@ -43,13 +43,13 @@ $color5: #c0ae98;
     border-left: 3px solid $color2;
     transition-timing-function: ease-in;
     transition-duration: 500ms;
-    background-color: #e7e1de;
+    background-color: #f5eded;
     color: $color1;
   }
 
   .contents {
     font-family: "Raleway";
-    width: 470px;
+    width: 480px;
     height: 330px;
     margin-left: 2.5rem;
 
@@ -61,7 +61,7 @@ $color5: #c0ae98;
         color: $color1;
         font-family: "Open Sans";
         font-weight: 700;
-        text-decoration: none;
+        // text-decoration: none;
       }
     }
 
@@ -73,8 +73,8 @@ $color5: #c0ae98;
       font-weight: 600;
     }
     li {
-      line-height: 1.65rem;
-      font-size: 0.95rem;
+      line-height: 1.75rem;
+      font-size: 1rem;
       padding-bottom: 0.5rem;
       color: $color3;
     }

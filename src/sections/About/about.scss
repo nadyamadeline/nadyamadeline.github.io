@@ -11,7 +11,7 @@ $color5: #c0ae98;
   display: flex;
   flex-direction: column;
   margin: 0 6.25rem;
-  padding: 6.25rem 0;
+  padding: 7.75rem 0;
   position: relative;
   z-index: 3;
 }
@@ -47,7 +47,7 @@ $color5: #c0ae98;
   line-height: 1.75rem;
   margin-right: 5.25rem;
   p {
-    font-size: 0.95rem;
+    font-size: 1rem;
     padding-bottom: 1rem;
     color: $color3;
 
@@ -73,7 +73,7 @@ $color5: #c0ae98;
   width: 300px;
   height: 300px;
   position: absolute;
-  top: 12rem;
+  top: 14rem;
   left: 670px;
   border: 3px solid $color5;
   border-radius: 0.25rem;
