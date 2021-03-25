@@ -67,14 +67,33 @@ function Experience() {
                   VCs like MonkHill Ventures, MindWorks, and many more
                 </li>
                 <li>
-                  Developed an online Interior Design &amp; Home Decor Services
-                  Website using React &amp; Redux, successfully integrated 90+
-                  APIs for its features (such as create appointment, create
-                  project quotation, and upload payment receipt)
+                  Developed an online{" "}
+                  <span
+                    style={{
+                      fontWeight: "bold",
+                      color: "#7b8d75",
+                      fontFamily: "Open Sans",
+                    }}
+                  >
+                    Interior Design &amp; Home Decor Services Website
+                  </span>{" "}
+                  using React &amp; Redux, successfully integrated 90+ APIs for
+                  its features (such as create appointment, create project
+                  quotation, and upload payment receipt)
                 </li>
                 <li>
-                  Built a Movie Review Website using React &amp; Firebase, with
-                  features like search, create watch list, and adding reviews
+                  Built a{" "}
+                  <span
+                    style={{
+                      fontWeight: "bold",
+                      color: "#7b8d75",
+                      fontFamily: "Open Sans",
+                    }}
+                  >
+                    Movie Review Website
+                  </span>{" "}
+                  using React &amp; Firebase, with features like search, create
+                  watch list, and adding reviews
                 </li>
               </ul>
             </div>

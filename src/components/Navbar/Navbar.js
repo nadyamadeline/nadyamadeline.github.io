@@ -45,7 +45,7 @@ function Navbar() {
           // without
           rel="noopener noreferrer"
           target="_blank"
-          // style={{ textDecoration: "none", color: "#7b8d75" }}
+          style={{ textDecoration: "none", color: "#7b8d75" }}
         >
           Resume
         </a>
