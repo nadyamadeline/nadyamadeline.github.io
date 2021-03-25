@@ -1,5 +1,6 @@
 import React, { useState } from "react";
 import "./Navbar.scss";
+import resume from "../../static/resume.pdf";
 
 function Navbar() {
   const [scroll, setScroll] = useState(false);
@@ -40,8 +41,11 @@ function Navbar() {
         </a>
         <a
           className="resume-btn"
-          href="/resume.pdf"
-          style={{ textDecoration: "none", color: "#7b8d75" }}
+          href={resume}
+          // without
+          rel="noopener noreferrer"
+          target="_blank"
+          // style={{ textDecoration: "none", color: "#7b8d75" }}
         >
           Resume
         </a>

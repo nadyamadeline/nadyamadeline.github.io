@@ -37,7 +37,7 @@ function project() {
             </div>
             <br />
             <div className="p1-icons">
-              <a href="">
+              <a href="https://github.com">
                 <FaGithub className="project-icons" />
               </a>
               <a href="https://sweethomeweb.netlify.app">
@@ -51,7 +51,7 @@ function project() {
         </div>
         <div className="project2">
           <div className="p2-data">
-            <p className="featured" style={{ marginTop: "3rem" }}>
+            <p className="featured" style={{ marginTop: "2rem" }}>
               Featured Project
             </p>
             <h3>Actflix: Movie Review App</h3>
@@ -69,10 +69,10 @@ function project() {
             </div>
             <br />
             <div className="p2-icons">
-              <a href="">
+              <a href="https://github.com">
                 <FaGithub className="project-icons" />
               </a>
-              <a href="https://sweethomeweb.netlify.app">
+              <a href="https://actflix.herokuapp.com">
                 <FaExternalLinkAlt
                   className="project-icons"
                   style={{ marginLeft: "1.25rem" }}

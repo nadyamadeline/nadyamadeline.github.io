@@ -55,7 +55,7 @@ function Experience() {
             <div>
               <h3>
                 Software Engineering Trainee &#64;{" "}
-                <a href="https://glints.com" target="_blank">
+                <a href="https://glints.com" target="_blank" rel="noreferrer">
                   Glints
                 </a>
               </h3>
@@ -82,7 +82,11 @@ function Experience() {
             <div>
               <h3>
                 Founder &#64;{" "}
-                <a href="https://instagram.com/butterworks.id" target="_blank">
+                <a
+                  href="https://instagram.com/butterworks.id"
+                  target="_blank"
+                  rel="noreferrer"
+                >
                   Butterworks.id
                 </a>
               </h3>
