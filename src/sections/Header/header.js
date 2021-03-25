@@ -9,10 +9,12 @@ function header() {
       </p>
       <h1>Nadya Afandi.</h1>
       <h2>I can make your dreams come true.</h2>
-      <p style={{ maxWidth: "450px" }}>
-        This is a sample text to be edited later. Loren ipsum delores set amet.
-        The quick brown fox jumps over the lazy dog. Lavender blue dilly-dilly
-        lavender green.
+      <p style={{ maxWidth: "500px" }}>
+        Now that I caught your attention, here's how I can help.
+        <br />
+        I'm a software engineer who enjoys creating beautiful and useful apps.
+        I'm experienced with various web-development technologies, so if you
+        have that new and shiny app idea in mind, I'm your person!
       </p>
       <a href="mailto:nadyamadeline@gmail.com">
         <button className="contact-btn">Get in Touch!</button>
