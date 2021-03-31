@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/Resume2021/static/css/main.9f2a2df2.chunk.css",
-    "main.js": "/Resume2021/static/js/main.d908f3c5.chunk.js",
-    "main.js.map": "/Resume2021/static/js/main.d908f3c5.chunk.js.map",
-    "runtime-main.js": "/Resume2021/static/js/runtime-main.0ddb166b.js",
-    "runtime-main.js.map": "/Resume2021/static/js/runtime-main.0ddb166b.js.map",
-    "static/js/2.5ccfc555.chunk.js": "/Resume2021/static/js/2.5ccfc555.chunk.js",
-    "static/js/2.5ccfc555.chunk.js.map": "/Resume2021/static/js/2.5ccfc555.chunk.js.map",
-    "index.html": "/Resume2021/index.html",
-    "static/css/main.9f2a2df2.chunk.css.map": "/Resume2021/static/css/main.9f2a2df2.chunk.css.map",
-    "static/js/2.5ccfc555.chunk.js.LICENSE.txt": "/Resume2021/static/js/2.5ccfc555.chunk.js.LICENSE.txt",
-    "static/media/1555992778985.258a9f66.jpg": "/Resume2021/static/media/1555992778985.258a9f66.jpg",
-    "static/media/Actflix.4b229084.png": "/Resume2021/static/media/Actflix.4b229084.png",
-    "static/media/SweetHome.b5ba31b1.png": "/Resume2021/static/media/SweetHome.b5ba31b1.png",
-    "static/media/resume.be8a8fa6.pdf": "/Resume2021/static/media/resume.be8a8fa6.pdf"
+    "main.css": "/static/css/main.9f2a2df2.chunk.css",
+    "main.js": "/static/js/main.d908f3c5.chunk.js",
+    "main.js.map": "/static/js/main.d908f3c5.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.85664331.js",
+    "runtime-main.js.map": "/static/js/runtime-main.85664331.js.map",
+    "static/js/2.5ccfc555.chunk.js": "/static/js/2.5ccfc555.chunk.js",
+    "static/js/2.5ccfc555.chunk.js.map": "/static/js/2.5ccfc555.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.9f2a2df2.chunk.css.map": "/static/css/main.9f2a2df2.chunk.css.map",
+    "static/js/2.5ccfc555.chunk.js.LICENSE.txt": "/static/js/2.5ccfc555.chunk.js.LICENSE.txt",
+    "static/media/1555992778985.258a9f66.jpg": "/static/media/1555992778985.258a9f66.jpg",
+    "static/media/Actflix.4b229084.png": "/static/media/Actflix.4b229084.png",
+    "static/media/SweetHome.b5ba31b1.png": "/static/media/SweetHome.b5ba31b1.png",
+    "static/media/resume.be8a8fa6.pdf": "/static/media/resume.be8a8fa6.pdf"
   },
   "entrypoints": [
-    "static/js/runtime-main.0ddb166b.js",
+    "static/js/runtime-main.85664331.js",
     "static/js/2.5ccfc555.chunk.js",
     "static/css/main.9f2a2df2.chunk.css",
     "static/js/main.d908f3c5.chunk.js"
